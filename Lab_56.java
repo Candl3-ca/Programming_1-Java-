@@ -110,3 +110,47 @@ public class lab {
 //							+ "index " + result);
 //	}
 //}
+
+
+
+
+// new updated calc
+      System.out.println("Choose an operator: +, -, *, /, or %");
+//      char operator = input.next().charAt(0);
+//      
+//      System.out.println("Enter the first number: ");
+//      int num1 = input.nextInt();
+//      
+//      System.out.println("Enter the second number: ");
+//      int num2 = input.nextInt();
+//      
+// 
+//
+//    switch (operator) { 
+//      case '+': 
+//        int result = num1 + num2;
+//                  System.out.println(num1 + " + " + num2 + " = " + result);
+//                  break;
+//      case '-': 
+//        int result2 = num1 - num2;
+//                  System.out.println(num1 + " - " + num2 + " = " + result2);
+//                break;
+//      case '*': 
+//          int result3 = num1 * num2;
+//                  System.out.println(num1 + " * " + num2 + " = " + result3);
+//                break;
+//      case '/': 
+//         double result4 = num1 / num2;
+//                  System.out.println(num1 + " / " + num2 + " = " + result4);
+//                break;
+//      case '%':
+//          int result5 = num1 % num2;
+//                  System.out.println(num1 + " % " + num2 + " = " + result5);
+//                  break;
+//      default:
+//          System.out.println("Invalid operator");
+//          break;
+//    }
+//
+//  }
+//}
