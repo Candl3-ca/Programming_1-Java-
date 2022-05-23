@@ -6,7 +6,7 @@ package loanamortizer;
 
 /**
  *
- * @author
+ * @f-sam
  */
 public class Loan {
     
