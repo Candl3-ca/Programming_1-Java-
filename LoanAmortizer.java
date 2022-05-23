@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author
+ * @f-sam
  */
 public class LoanAmortizer {
 
